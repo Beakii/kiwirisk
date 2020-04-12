@@ -1,0 +1,18 @@
+.navbar-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navbar-wrapper ul{
+    display: flex;
+    list-style: none;
+}
+
+.navbar-wrapper ul li {
+    margin: 1rem;
+}
+
+.navbar-wrapper .nav-logo{
+    margin: 1rem;
+}
